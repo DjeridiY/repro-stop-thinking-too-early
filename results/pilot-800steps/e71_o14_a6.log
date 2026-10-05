@@ -1,0 +1,40 @@
+A new version of the following files was downloaded from https://huggingface.co/ByteDance/Ouro-1.4B:
+- configuration_ouro.py
+. Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.
+`torch_dtype` is deprecated! Use `dtype` instead!
+A new version of the following files was downloaded from https://huggingface.co/ByteDance/Ouro-1.4B:
+- modeling_ouro.py
+. Make sure to double-check they do not contain any added malicious code. To avoid downloading new versions of the code file, you can pin a revision.
+layers per loop 24 values 108 letters 52
+Generating test split:   0%|          | 0/4358 [00:00<?, ? examples/s]Generating test split: 100%|██████████| 4358/4358 [00:00<00:00, 95198.99 examples/s]
+Generating train split:   0%|          | 0/1801350 [00:00<?, ? examples/s]Generating train split:   2%|▏         | 36000/1801350 [00:00<00:05, 340087.89 examples/s]Generating train split:   6%|▌         | 101000/1801350 [00:00<00:03, 506368.89 examples/s]Generating train split:  10%|▉         | 173000/1801350 [00:00<00:02, 591244.37 examples/s]Generating train split:  15%|█▌        | 272000/1801350 [00:00<00:02, 554673.28 examples/s]Generating train split:  19%|█▊        | 335000/1801350 [00:00<00:02, 573224.52 examples/s]Generating train split:  23%|██▎       | 416000/1801350 [00:00<00:02, 525787.00 examples/s]Generating train split:  27%|██▋       | 484000/1801350 [00:00<00:02, 562294.75 examples/s]Generating train split:  32%|███▏      | 573000/1801350 [00:01<00:02, 563789.92 examples/s]Generating train split:  36%|███▌      | 652000/1801350 [00:01<00:02, 550903.69 examples/s]Generating train split:  40%|███▉      | 720000/1801350 [00:01<00:01, 579726.12 examples/s]Generating train split:  45%|████▍     | 804000/1801350 [00:01<00:01, 566247.78 examples/s]Generating train split:  48%|████▊     | 865000/1801350 [00:01<00:01, 572220.35 examples/s]Generating train split:  52%|█████▏    | 942675/1801350 [00:01<00:01, 552861.62 examples/s]Generating train split:  56%|█████▌    | 1000675/1801350 [00:01<00:01, 556868.47 examples/s]Generating train split:  59%|█████▉    | 1070675/1801350 [00:01<00:01, 588146.54 examples/s]Generating train split:  63%|██████▎   | 1138675/1801350 [00:02<00:01, 539258.54 examples/s]Generating train split:  67%|██████▋   | 1207675/1801350 [00:02<00:01, 572296.75 examples/s]Generating train split:  71%|███████   | 1282675/1801350 [00:02<00:00, 617871.28 examples/s]Generating train split:  75%|███████▍  | 1347675/1801350 [00:02<00:00, 548944.37 examples/s]Generating train split:  79%|███████▊  | 1414675/1801350 [00:02<00:00, 576964.28 examples/s]Generating train split:  82%|████████▏ | 1476675/1801350 [00:02<00:00, 558404.86 examples/s]Generating train split:  86%|████████▌ | 1547675/1801350 [00:02<00:00, 595024.35 examples/s]Generating train split:  89%|████████▉ | 1608675/1801350 [00:02<00:00, 593428.29 examples/s]Generating train split:  94%|█████████▎| 1686675/1801350 [00:02<00:00, 561328.66 examples/s]Generating train split:  98%|█████████▊| 1757675/1801350 [00:03<00:00, 594374.54 examples/s]Generating train split: 100%|██████████| 1801350/1801350 [00:03<00:00, 570999.42 examples/s]
+Generating validation split:   0%|          | 0/3760 [00:00<?, ? examples/s]Generating validation split: 100%|██████████| 3760/3760 [00:00<00:00, 539441.87 examples/s]
+step 0 loss 4.075 acc 0.00 s=0.999 t=9
+step 50 loss 0.718 acc 0.69 s=1.008 t=454
+step 100 loss 0.544 acc 0.62 s=1.008 t=903
+step 150 loss 0.012 acc 1.00 s=1.012 t=1350
+step 200 loss 0.006 acc 1.00 s=1.008 t=1792
+step 250 loss 0.011 acc 1.00 s=1.011 t=2235
+step 300 loss 0.006 acc 1.00 s=1.012 t=2682
+step 350 loss 0.745 acc 0.94 s=1.009 t=3121
+step 400 loss 0.003 acc 1.00 s=1.007 t=3562
+step 450 loss 0.003 acc 1.00 s=1.004 t=4006
+step 500 loss 0.003 acc 1.00 s=1.003 t=4450
+step 550 loss 0.003 acc 1.00 s=1.002 t=4893
+step 600 loss 0.002 acc 1.00 s=1.005 t=5339
+step 650 loss 0.003 acc 1.00 s=1.003 t=5787
+step 700 loss 0.003 acc 1.00 s=1.003 t=6228
+step 750 loss 0.002 acc 1.00 s=1.004 t=6675
+c=2 T=1 frozen d1:0.00/0.70 d2:0.00/0.46 d3:0.00/0.51 d4:0.00/0.50 d6:0.00/0.45 d8:0.00/0.45 d12:0.00/0.44 d16:0.00/0.48 d20:0.00/0.52 d24:0.00/0.47
+c=2 T=1 map    d1:0.25/0.97 d2:0.03/0.75 d3:0.00/0.60 d4:0.00/0.53 d6:0.00/0.45 d8:0.00/0.44 d12:0.00/0.46 d16:0.00/0.48 d20:0.00/0.54 d24:0.00/0.50
+c=2 T=2 frozen d1:0.34/0.99 d2:0.05/0.78 d3:0.00/0.53 d4:0.00/0.47 d6:0.00/0.45 d8:0.00/0.51 d12:0.00/0.46 d16:0.00/0.50 d20:0.00/0.49 d24:0.00/0.55
+c=2 T=2 map    d1:1.00/1.00 d2:0.99/1.00 d3:0.99/1.00 d4:0.91/0.99 d6:0.48/0.92 d8:0.04/0.73 d12:0.00/0.49 d16:0.00/0.47 d20:0.00/0.51 d24:0.00/0.44
+c=2 T=3 frozen d1:0.09/1.00 d2:0.30/0.85 d3:0.30/0.69 d4:0.18/0.55 d6:0.10/0.57 d8:0.02/0.47 d12:0.01/0.47 d16:0.01/0.55 d20:0.01/0.52 d24:0.02/0.55
+c=2 T=3 map    d1:1.00/1.00 d2:1.00/1.00 d3:1.00/1.00 d4:1.00/1.00 d6:1.00/1.00 d8:1.00/1.00 d12:0.99/0.99 d16:0.76/0.93 d20:0.28/0.74 d24:0.11/0.57
+c=2 T=4 frozen d1:0.07/1.00 d2:0.20/0.89 d3:0.24/0.71 d4:0.12/0.56 d6:0.07/0.54 d8:0.03/0.49 d12:0.03/0.49 d16:0.01/0.54 d20:0.00/0.51 d24:0.01/0.51
+c=2 T=4 map    d1:1.00/1.00 d2:1.00/1.00 d3:1.00/1.00 d4:1.00/1.00 d6:1.00/1.00 d8:1.00/1.00 d12:1.00/1.00 d16:1.00/1.00 d20:1.00/1.00 d24:0.99/0.99
+c=2 T=6 frozen d1:0.05/0.98 d2:0.20/0.87 d3:0.15/0.63 d4:0.06/0.48 d6:0.02/0.47 d8:0.01/0.53 d12:0.01/0.55 d16:0.00/0.59 d20:0.00/0.53 d24:0.00/0.44
+c=2 T=6 map    d1:1.00/1.00 d2:1.00/1.00 d3:1.00/1.00 d4:1.00/1.00 d6:1.00/1.00 d8:0.99/0.99 d12:1.00/1.00 d16:1.00/1.00 d20:0.98/0.98 d24:0.97/0.97
+c=2 T=8 frozen d1:0.05/0.98 d2:0.12/0.85 d3:0.10/0.61 d4:0.02/0.47 d6:0.01/0.45 d8:0.00/0.51 d12:0.00/0.51 d16:0.00/0.59 d20:0.00/0.49 d24:0.00/0.46
+c=2 T=8 map    d1:1.00/1.00 d2:1.00/1.00 d3:1.00/1.00 d4:1.00/1.00 d6:0.99/0.99 d8:0.92/0.92 d12:0.93/0.93 d16:0.86/0.86 d20:0.85/0.85 d24:0.73/0.73
+done 8301.738333463669

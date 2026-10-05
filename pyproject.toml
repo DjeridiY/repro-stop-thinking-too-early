@@ -1,0 +1,6 @@
+[project]
+name = "repro-stop-thinking-too-early"
+version = "0.1.0"
+description = "Preregistered reproduction of arXiv:2609.36585 on a free Colab T4"
+requires-python = ">=3.10"
+dependencies = ["numpy"]
